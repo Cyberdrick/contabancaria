@@ -75,7 +75,7 @@ public class Menu {
 			}
 			
 			switch(option) {
-			case 1: 
+			case 1:
 				System.out.println(Cores.TEXT_WHITE + "Criar Conta \n\n");
 				
 				System.out.println("Digite o Numero da Agência: ");
